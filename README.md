@@ -20,13 +20,13 @@ world-happiness-analysis/
 
 ├── notebooks/
 
-│ ├── Phase_6_Model_Selection_&Standardized_Variable_Importance_Analysis.ipynb
+│ ├── Phase_3&4_Visual_Analysis&_Statistical_Estimation.ipynb 
 
 │ ├── Phase_5_Regression_Analysis.ipynb
 
-│ ├── Phase_7_Regularization.ipynb
+│ ├── Phase_6_Model_Selection_&Standardized_Variable_Importance_Analysis.ipynb
 
-│ └── Phase_3&4_Visual_Analysis&_Statistical_Estimation.ipynb
+│ └── Phase_7_Regularization.ipynb 
 
 ├── data/
 
