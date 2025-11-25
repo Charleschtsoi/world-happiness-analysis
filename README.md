@@ -17,6 +17,7 @@ This project analyzes five years of World Happiness Report data to understand wh
 ## Project Structure
 
 world-happiness-analysis/
+
 ├── notebooks/
 │ ├── Phase_6_Model_Selection_&Standardized_Variable_Importance_Analysis.ipynb
 │ ├── Phase_5_Regression_Analysis.ipynb
