@@ -55,7 +55,7 @@ world-happiness-analysis/
 
 ## Tools & Technologies
 
-- Python 3.x
+- Python 3
 - pandas, numpy
 - statsmodels, scikit-learn
 - matplotlib, seaborn
