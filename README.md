@@ -4,7 +4,7 @@ Statistical analysis of World Happiness Report data to identify key drivers of n
 
 This is Phase 1 of a multi-phase project:
 
-Phase 1 (Current): Regression analysis and variable importance modeling
+Phase 1 (Current): Regression analysis and variable importance modeling - it is the engine of the machine learning model
 
 Phase 2 (Upcoming): Interactive Streamlit dashboard for data exploration
 
