@@ -19,13 +19,21 @@ This project analyzes five years of World Happiness Report data to understand wh
 world-happiness-analysis/
 
 ├── notebooks/
+
 ├── Phase_3&4_Visual_Analysis&_Statistical_Estimation.ipynb 
+
 ├── Phase_5_Regression_Analysis.ipynb
+
 ├── Phase_6_Model_Selection_&Standardized_Variable_Importance_Analysis.ipynb
+
 └── Phase_7_Regularization.ipynb 
+
 ├── data/
+
 └── happiness_clean_2015_2019.csv
+
 ├── World Happiness Analysis.docx
+
 └── README.md
 
 ## Methodology
