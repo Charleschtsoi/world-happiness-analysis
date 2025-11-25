@@ -5,8 +5,11 @@ Statistical analysis of World Happiness Report data to identify key drivers of n
 This is Phase 1 of a multi-phase project:
 
 Phase 1 (Current): Regression analysis and variable importance modeling
+
 Phase 2 (Upcoming): Interactive Streamlit dashboard for data exploration
+
 Phase 3 (Vision): Decision support tool for evidence-based policymaking
+
 Long-term goal: Support GovTech and policymakers in making statistically-informed governance decisions that improve citizen well-being.
 
 ## Overview
